@@ -239,7 +239,7 @@
         <project-plugin-version>${x.version}</project-plugin-version>
         <aws-maven.version>1.0.1</aws-maven.version>
         <maven-compiler-plugin.version>3.10.1</maven-compiler-plugin.version>
-        <json.version>20230227</json.version>
+        <json.version>20231013</json.version>
         <java.version>17</java.version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
